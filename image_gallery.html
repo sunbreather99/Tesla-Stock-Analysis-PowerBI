@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tesla Stock Analysis - Image Gallery</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            background: #f5f5f5; 
+            padding: 20px; 
+            margin: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 { 
+            text-align: center; 
+            color: #333; 
+            margin-bottom: 30px;
+        }
+        .gallery { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); 
+            gap: 20px; 
+        }
+        .image-card { 
+            background: white; 
+            padding: 15px; 
+            border-radius: 8px; 
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        .image-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        }
+        .image-card h3 {
+            margin-top: 0;
+            color: #333;
+        }
+        img { 
+            width: 100%; 
+            height: auto; 
+            border-radius: 5px; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Tesla Stock Analysis - Dashboard Images</h1>
+        <div class="gallery">
+            <div class="image-card">
+                <h3>Dashboard Overview</h3>
+                <img src="dashboard.png" alt="Dashboard Overview">
+            </div>
+            <div class="image-card">
+                <h3>Moving Average Analysis</h3>
+                <img src="moving_avg.jpeg" alt="Moving Average">
+            </div>
+            <div class="image-card">
+                <h3>Volatility Analysis</h3>
+                <img src="Volatility.jpeg" alt="Volatility">
+            </div>
+            <div class="image-card">
+                <h3>Trading Volume Chart</h3>
+                <img src="Volume_chart.jpeg" alt="Volume Chart">
+            </div>
+            <div class="image-card">
+                <h3>Vertical Volume Chart</h3>
+                <img src="Vertical_vol_chrt.jpeg" alt="Vertical Volume Chart">
+            </div>
+            <div class="image-card">
+                <h3>Bullish vs Bearish Sentiment</h3>
+                <img src="bullish_vs_bearish.jpeg" alt="Bullish vs Bearish">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
