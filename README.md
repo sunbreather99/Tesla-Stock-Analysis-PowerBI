@@ -55,7 +55,7 @@ Shows overall market sentiment by classifying each trading day based on price mo
 
 Analyzes market liquidity and investor participation over time.
 
-![Trading Volume](screenshots/volume_chart.jpeg)
+![Trading Volume](screenshots/Volume_chart.jpeg)
 
 ---
 
@@ -63,17 +63,10 @@ Analyzes market liquidity and investor participation over time.
 
 Measures average daily price range to identify periods of higher market risk.
 
-![Volatility](screenshots/volatility.jpeg)
+![Volatility](screenshots/Volatility.jpeg)
 
 ---
 
-### Year-wise Bullish vs Bearish Trading Days
-
-Compares market sentiment across different years.
-
-![Year-wise Market Direction](screenshots/yearly_bullish_bearish.jpeg)
-
----
 
 ## Technologies Used
 
