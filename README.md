@@ -8,7 +8,7 @@ This project demonstrates data cleaning, financial analytics, KPI reporting, mar
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
