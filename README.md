@@ -8,7 +8,7 @@ This project demonstrates data cleaning, financial analytics, KPI reporting, mar
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ---
 
@@ -39,7 +39,7 @@ This project demonstrates data cleaning, financial analytics, KPI reporting, mar
 
 The moving average smooths short-term fluctuations and highlights long-term trends.
 
-![Moving Average](moving_avg.jpeg)
+![Moving Average](images/moving_avg.jpeg)
 
 ---
 
@@ -47,7 +47,7 @@ The moving average smooths short-term fluctuations and highlights long-term tren
 
 Shows overall market sentiment by classifying each trading day based on price movement.
 
-![Bullish vs Bearish](bullish_vs_bearish.jpeg)
+![Bullish vs Bearish](images/bullish_vs_bearish.jpeg)
 
 ---
 
@@ -55,7 +55,7 @@ Shows overall market sentiment by classifying each trading day based on price mo
 
 Analyzes market liquidity and investor participation over time.
 
-![Trading Volume](Volume_chart.jpeg)
+![Trading Volume](images/Volume_chart.jpeg)
 
 ---
 
@@ -63,7 +63,7 @@ Analyzes market liquidity and investor participation over time.
 
 Measures average daily price range to identify periods of higher market risk.
 
-![Volatility](Volatility.jpeg)
+![Volatility](images/Volatility.jpeg)
 
 ---
 
