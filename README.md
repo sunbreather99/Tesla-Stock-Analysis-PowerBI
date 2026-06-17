@@ -111,7 +111,7 @@ Measures average daily price range to identify periods of higher market risk.
 | HSTW_Project_3.pdf | Complete project report |
 | tesla_stock_analysis_report.html | Interactive portfolio version |
 | TSLA_Cleaned.csv | Cleaned dataset |
-| screenshots/ | Dashboard and chart images |
+| Images | Dashboard and chart images |
 
 ---
 
